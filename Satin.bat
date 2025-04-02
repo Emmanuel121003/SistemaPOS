@@ -1,0 +1,4 @@
+@echo off
+start "" "C:\wamp64\wampmanager.exe"
+timeout /t 10 >nul
+start "" "http://10.11.24.57/jonathan/"
