@@ -1,0 +1,14 @@
+Intentando actualizar estado del pedido ID 1 a 'Produccion'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 5 a 'Proceso'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 1 a 'Pendiente'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 1 a 'Produccion'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 7 a 'Produccion'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 1 a 'Pendiente'
+✅ Estado actualizado correctamente.
+Intentando actualizar estado del pedido ID 7 a 'Listo para entregar'
+✅ Estado actualizado correctamente.

@@ -69,8 +69,4 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     exit();
 }
 
-// Función para limpiar entradas
-function sanitizeInput($data) {
-    return htmlspecialchars(trim($data), ENT_QUOTES, 'UTF-8');
-}
 ?>
